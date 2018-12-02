@@ -53,5 +53,30 @@ x의 y 제곱 : x**y
 나눗셈 : /
 나눗셈 후 나머지 제거 : //
 '''
+#문자열 자료형입니다
+'''
+"Life is too short, You need Python"
+"a"
+"123"
+'''
+food 	= "Python's favorite food is perl"
+str 	= '"Python is very easy" he says.'
+str2	= "Python's very easy"
+str3 	= "\"Python is very easy.\"he says."
+#여러줄 문자열
+str = "Life is too short\nYou need python."
+print(str)
+
+multipleline = """
+Life is too short
+You need python
+"""
+print(multipleline)
+
+multipleline = '''
+Life is too short
+You need python
+'''
+print(multipleline)
 
 
