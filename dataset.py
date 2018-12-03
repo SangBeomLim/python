@@ -79,4 +79,39 @@ You need python
 '''
 print(multipleline)
 
+'''
+문자열 더해서 연산하기
+'''
+str_head = "Python "
+str_tail = "is fun!"
+
+print(str_head + str_tail)
+
+'''
+문자열 곱하기
+'''
+
+str = "Python "
+
+print(str*2)
+
+print("="*30)
+print("My Program is easy")
+print("="*30)
+
+#문자열 인덱싱과 슬라이싱
+#인덱싱(Index) : 가리킨다 의 의미, 슬라이싱(Slicing) : 잘라낸다 의 의미
+
+a = "Life is too short, You need Python"
+
+print(a[2]) #f
+print(a[3]) #e
+
+#파이썬도 0부터 숫자를 센다~!
+
+print(a[-1]) #뒤에서 첫번째
+print(a[-3]) #뒤에서 세번째
+
+
+
 
