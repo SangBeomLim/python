@@ -1,6 +1,7 @@
 #Lesson01. 파이썬 기초 자료형
 #Author : Andy Lion
-#Date   : 2019-11-22
+#Date   : 2020-06-25
+#Git Update Date : 2020-06-25
 
 #Number
 #Integer (정수형)
